@@ -1,0 +1,16 @@
+`define OR   6'b000000
+`define ADD  6'b000001
+`define SUB  6'b000010
+`define CMP  6'b000011
+`define ORI  6'b000100
+`define ADDI 6'b000101
+`define LW   6'b000110
+`define SW   6'b000111
+`define LDW  6'b001000
+`define SDW  6'b001001
+`define BZ   6'b001010
+`define BGZ  6'b001011
+`define BLZ  6'b001100
+`define JR   6'b001101
+`define J    6'b001110
+`define CLL  6'b001111
