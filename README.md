@@ -2,7 +2,7 @@
 
 A complete implementation of a **5-stage pipelined RISC32 processor** in **Verilog**. This project was developed as part of the Computer Architecture course (ENCS4370) at Birzeit University. It supports a custom 32-bit ISA, data and control hazards, stalling, forwarding, and simulation-based verification using Icarus Verilog and GTKWave.
 
----
+--
 
 ## 📌 Project Features
 
